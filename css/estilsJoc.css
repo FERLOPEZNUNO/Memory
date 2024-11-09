@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+h1 {
+    text-align: center; 
+    font-family: Verdana; 
+    margin-bottom: 40px;
+}
+
+table {
+    margin-bottom: 40px; 
+}
+
+
+.resetear {
+    background: gray;
+    border: black;
+    color: #fff;
+    font-family: Verdana;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.carta {
+    border: none;
+    cursor: pointer;
+    font-size: 80px;
+    width: 100%;
+    height: 100%;
+}
